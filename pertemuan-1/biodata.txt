@@ -1,4 +1,4 @@
 Biodata
 Nama    :
 Kelas   :
-Prodi   : Teknik
+Prodi   : Teknik Informatika
